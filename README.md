@@ -1,6 +1,6 @@
 # github-actions-lab
 
-[![Terraform CI/CD](https://github.com/Dami442/github-actions-lab/actions/workflows/terraform.yml/badge.svg)]
+![Terraform CI/CD](https://github.com/Dami442/github-actions-lab/actions/workflows/terraform.yml/badge.svg)
 
 This repository demonstrates GitHub Actions automation for Terraform deployments.
 
